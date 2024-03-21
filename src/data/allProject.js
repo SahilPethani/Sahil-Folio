@@ -1,28 +1,5 @@
 import React from "react";
 
-function project_1() {
-    return {
-        title: "..",
-        link: "",
-        date: [
-            "...",
-            ".."
-        ],
-        logo_1: [],
-        photos: [
-
-        ],
-        description:
-            "Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
-        keywords: [
-            "The Benefits of Cloud Computing",
-            "Sahil ",
-            "Sahil P",
-            "SAhil Pethani",
-        ],
-    };
-}
-
 function project_2() {
     return {
         title: "Hive Web",
@@ -476,7 +453,6 @@ function project_7() {
 }
 
 const myArticles = [
-    project_1,
     project_2,
     project_3,
     project_4,

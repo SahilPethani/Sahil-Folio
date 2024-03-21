@@ -12,12 +12,14 @@ const Works = () => {
 			title: "Globalia Soft LLP",
 			subtitle: "Mern-stack Devloper",
 			duration: "Jun 2022 - Feb 2023",
+			link:"https://globaliasoft.com/"
 		},
 		{
 			img: "https://media.licdn.com/dms/image/C4D0BAQE6yPlCvpMkMA/company-logo_200_200/0/1675346491865/codeline_infotech_logo?e=2147483647&v=beta&t=Wn83OqqBc51K5naNv1iQpuKPARaF38R3hA4l0YGpa_g",
 			title: "Codeline Infotech LLP",
 			subtitle: "Mern-stack Devloper",
 			duration: "Mar 2023 - Present",
+			link:"https://codelineinfotech.com/"
 		},
 	];
 	return (
@@ -29,16 +31,18 @@ const Works = () => {
 					<div className="works-body">
 						{Work.map((item, index) => (
 							<div className="work">
-								<div className="work_div_1">
-									<img
-										src={item.img}
-										alt="facebook"
-										className="work-image"
-									/>
-									<div className="work-title">
-										{item.title}
+								<a href={item.link} target="_blank">
+									<div className="work_div_1">
+										<img
+											src={item.img}
+											alt="facebook"
+											className="work-image"
+										/>
+										<div className="work-title">
+											{item.title}
+										</div>
 									</div>
-								</div>
+								</a>
 								<div className="work_div_2">
 									<div className="work-subtitle">
 										{item.subtitle}

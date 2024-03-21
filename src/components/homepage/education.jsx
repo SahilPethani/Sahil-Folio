@@ -1,5 +1,5 @@
 import React from "react";
-import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
+import { faGraduationCap } from "@fortawesome/free-solid-svg-icons";
 
 import Card from "../common/card";
 
@@ -12,33 +12,37 @@ const Education = () => {
 			title: "Government Polytechnic Rajkot",
 			subtitle: "Diploma, Information Technology",
 			duration: "Aug 2019 - May 2022",
+			link: "http://www.gprj.cteguj.in/",
 		},
 		{
 			img: "https://images.shiksha.com/mediadata/images/1687177544phpznnBsP.jpeg",
 			title: "Bhagvan Arihant Institute Of Tecnology",
 			subtitle: "Bachelor of Technology - BTech, Computer Engineering",
 			duration: "Nov 2023 - Present",
+			link: "https://www.bmusurat.ac.in/",
 		},
 	];
 	return (
 		<div className="works">
 			<Card
-				icon={faBriefcase}
+				icon={faGraduationCap}
 				title="Education"
 				body={
 					<div className="works-body">
 						{education.map((item, index) => (
 							<div className="work">
-								<div className="work_div_1">
-									<img
-										src={item.img}
-										alt="facebook"
-										className="work-image"
-									/>
-									<div className="work-title">
-										{item.title}
+								<a href={item.link} target="_blank">
+									<div className="work_div_1">
+										<img
+											src={item.img}
+											alt="facebook"
+											className="work-image"
+										/>
+										<div className="work-title">
+											{item.title}
+										</div>
 									</div>
-								</div>
+								</a>
 								<div className="work_div_2">
 									<div className="work-subtitle">
 										{item.subtitle}
