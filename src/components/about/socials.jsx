@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelope, faPhone } from "@fortawesome/free-solid-svg-icons";
 import {
 	faTwitter,
 	faGithub,
@@ -69,6 +69,22 @@ const Socials = () => {
 					</div>
 					<div className="social-text">Follow on Instagram</div>
 				</a>
+			</div>
+
+			<div className="email">
+				<div className="email-wrapper">
+					<a
+						href={`tel:${INFO.main.call}`}
+						target="_blank"
+						rel="noreferrer"
+					>
+						<div className="social-icon">
+							<FontAwesomeIcon icon={faPhone} />
+						</div>
+
+						<div className="social-text">+91 6355438143</div>
+					</a>
+				</div>
 			</div>
 
 			<div className="email">

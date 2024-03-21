@@ -51,7 +51,7 @@ const ReadArticle = () => {
 							/>
 						</div>
 
-						<div className="read-article-wrapper">
+						<div>
 							<div className="title read-article-title">
 								{article().title}
 								<FontAwesomeIcon className="project-link-icon" icon={faLink} />

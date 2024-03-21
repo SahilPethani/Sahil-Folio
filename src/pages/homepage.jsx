@@ -173,7 +173,6 @@ const Homepage = () => {
 							<div className="homepage-works">
 								<Education />
 							</div>
-
 							<div className="homepage-works">
 								<Works />
 							</div>

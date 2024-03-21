@@ -3,6 +3,7 @@ const INFO = {
 		title: "Sahil Portfolio",
 		name: "Sahil Pethani",
 		email: "sahilpethani50@gmail.com",
+		call: "+916355438143",
 		logo: "../logo.png",
 	},
 
@@ -12,6 +13,7 @@ const INFO = {
 		instagram: "https://www.instagram.com/s_.m_.pethani/?igsh=MXR3cmY1eTZzbzU4MA%3D%3D",
 		stackoverflow: "https://stackoverflow.com/users/23648111/sahil-pethani",
 		facebook: "https://facebook.com/",
+		call: "+91 6355438143",
 	},
 
 	homepage: {

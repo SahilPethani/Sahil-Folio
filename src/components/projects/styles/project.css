@@ -23,14 +23,14 @@
 }
 
 .project-container {
-	padding: 30px;
+	padding: 20px;
 }
 
 .project-logo {
 	width: 30px;
 	display: flex;
-    align-items: center;
-    gap: 20px;
+	align-items: center;
+	gap: 20px;
 }
 
 .project-logo img {
@@ -66,10 +66,4 @@
 .project-link-text {
 	/* padding-left: 20px; */
 	font-weight: 700;
-}
-
-@media (max-width: 600px) {
-	.project {
-		height: 300px;
-	}
 }

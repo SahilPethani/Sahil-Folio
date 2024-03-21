@@ -38,9 +38,6 @@
 .read-article-back-button:hover {
 	box-shadow: none;
 }
-.read-article-wrapper {
-	width: 80%;
-}
 
 .read-article-date-container {
 	color: var(--tertiary-color);
@@ -129,4 +126,11 @@
 .project-link-icon:hover {
 	cursor: pointer;
 	color: #14b8a6 !important;
+}
+
+@media (max-width: 600px) {
+	.read-article-container {
+		flex-wrap: wrap;
+		gap: 30px;
+	}
 }

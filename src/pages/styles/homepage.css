@@ -91,7 +91,7 @@
 }
 
 .homepage-works {
-	flex-basis: 600px;
+width: 100%;
 	padding-top: 30px;
 }
 
@@ -142,11 +142,5 @@
 
 	.homepage-articles {
 		flex-basis: auto;
-	}
-
-	.homepage-works {
-		flex-basis: auto;
-		margin-left: -25px;
-		margin-right: -25px;
 	}
 }
