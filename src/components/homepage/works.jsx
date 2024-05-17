@@ -11,15 +11,15 @@ const Works = () => {
 			img: "https://media.licdn.com/dms/image/C4D0BAQHsEBJ78oQTEg/company-logo_200_200/0/1649321348266/globaliasoft_logo?e=2147483647&v=beta&t=nlOYQA5phkDzngGyU_O9aRiSni6KgDKAFSLfh8K1bnc",
 			title: "Globalia Soft LLP",
 			subtitle: "Mern-stack Devloper",
-			duration: "Jun 2022 - Feb 2023",
-			link:"https://globaliasoft.com/"
+			duration: "September 2022 - February 2023",
+			link: "https://globaliasoft.com/",
 		},
 		{
 			img: "https://media.licdn.com/dms/image/C4D0BAQE6yPlCvpMkMA/company-logo_200_200/0/1675346491865/codeline_infotech_logo?e=2147483647&v=beta&t=Wn83OqqBc51K5naNv1iQpuKPARaF38R3hA4l0YGpa_g",
 			title: "Codeline Infotech LLP",
 			subtitle: "Mern-stack Devloper",
-			duration: "Mar 2023 - Present",
-			link:"https://codelineinfotech.com/"
+			duration: "March 2023 - Present",
+			link: "https://codelineinfotech.com/",
 		},
 	];
 	return (
