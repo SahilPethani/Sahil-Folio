@@ -64,7 +64,7 @@ const Contact = () => {
 								target="_blank"
 								rel="noreferrer"
 							>
-								{INFO.socials.instagram}
+								Instagram
 							</a>
 							. I post regular updates and engage with my
 							followers there, so don't hesitate to reach out.
