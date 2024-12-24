@@ -359,15 +359,113 @@ function project_6() {
         title: "HRMS Web + Backend",
         link: "",
         date: [
-            "....."
+            "Employee Management System is a comprehensive platform designed to streamline and automate all aspects of employee management. Whether you're a small startup or a large enterprise, our system caters to the diverse needs of managing your workforce efficiently.",
+            "Traditionally, employee management involved manual processes, consuming valuable time and resources. With Employee Management System, we bring automation to every aspect of HR management, from onboarding to offboarding and everything in between.",
+            "Our system allows you to effortlessly handle employee details, performance evaluations, leave management, payroll processing, and more. Gone are the days of cumbersome paperwork and data entry errors. With our user-friendly interface and robust features, you can ensure accuracy while saving time and costs.",
+            "Employee Management System offers two distinct access levels: administrator and user. Administrators have full control over the system, managing permissions, generating reports, and overseeing all employee-related activities. Users, on the other hand, can access relevant information, submit requests, and update their profiles seamlessly."
         ],
         logo_1: [
             "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-            "https://blue24llc.com/static/media/hive_logo_black.c27e27b3dc26132364ba.png",
+            "https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png",
             "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
         ],
         photos: [
-
+            {
+                title: "",
+                url: "https://i.postimg.cc/HLDmbtjp/1.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/BZYGm3t7/2.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/mkDWTXpS/3.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/mk5fkY0W/4.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/3R9H551R/5.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/9FDHSk7m/6.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/NjTqGrDZ/7.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/5NDWMmBw/8.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/W4vRdbfz/9.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/QMk21GRb/10.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/9MLsgPXw/11.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/Y9rJxD7w/12.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/wM3ZCt3f/13.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/zvM68JgJ/14.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/fTt150Gk/15.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/sf0tpJ0t/16.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/9F6KkQ2b/17.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/6pCgxx5X/18.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/QMbzVgTY/19.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/hjt5mJ8D/20.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/76tQnxXg/21.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/WzQWxXBz/22.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/sf8NBgMz/23.jpg"
+            },
+            {
+                title: "",
+                url: "https://i.postimg.cc/T3vN9NjH/24.jpg"
+            },
         ],
         description:
             "Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
